@@ -6,7 +6,7 @@ import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
 
-public class MainActivity extends ActionBarActivity {
+public class MainActivity extends Activity {
 
 	private static String ACTIVITY_LIFECYCLE = "ACTIVITY_LIFECYCLE";
 	
